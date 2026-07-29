@@ -6,9 +6,9 @@ int main() {
   bool warna_biru {false};
 
   if(warna_merah == true){
-    cout << "Amel ganteng" << endl;
+    cout << "iya" << endl;
   } else if(warna_biru == true){
-    cout << "Amel tidak ganteng" << endl;
+    cout << "tidak" << endl;
   } else {
     cout << "Tidak ada warna" << endl;
   }
