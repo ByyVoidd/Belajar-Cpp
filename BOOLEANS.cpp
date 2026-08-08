@@ -16,5 +16,6 @@ int main() {
   char nilai = 65.5;
   cout << "Nilai: " << nilai << endl;
   cout << "Nilai: " << static_cast<float>(nilai) << endl;
+  cout << "nilai anda kosong";
   return 0;
 }
