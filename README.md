@@ -36,12 +36,6 @@ Repository ini dibuat sebagai dokumentasi pembelajaran C++ selama menempuh pendi
 - Mengerjakan mini project
 - Membangun portofolio pemrograman
 
-## Update
-
-1. Boolean, Variabel, dan Tipe data
-2. -
-3. -
-
 ## Deskripsi
 
 Repository ini akan terus diperbarui seiring proses pembelajaran di kelas maupun belajar mandiri. Setiap folder berisi materi, contoh program, latihan, serta catatan yang bertujuan memperkuat pemahaman terhadap bahasa pemrograman C++.
