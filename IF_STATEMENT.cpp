@@ -13,7 +13,22 @@ int main() {
         cout << "UANGMU CUKUP!" << endl;
      }
      else{
-        cout << "MOHON MAAF, UANGMU KURANG.....";
+        cout << "MOHON MAAF, UANGMU KURANG....." endl;
+     }
+// ___________________________________________________________________________________
+     int umur;
+
+     cout << "Berapa umurmu? ";
+     cin >> umur;
+
+     if( umur > 18) {
+        cout << "Kamu sudah legal!";
+     }
+     else if(umur == 18) {
+        cout << "Kamu masih dalam masa peralihan";
+     }
+     else{
+        cout << "Kamu masih belum legal";
      }
 
     return 0;
